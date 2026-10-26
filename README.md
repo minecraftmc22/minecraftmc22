@@ -20,7 +20,7 @@
 
 ### 🎬 字幕与翻译
 
-在 B 站为 CG5 的音乐视频《Wrong Side Out》（Poppy Playtime Chapter 5）制作过中英字幕，字幕与翻译署名均为 **Minecraftmc22**；也做过 LRC 歌词。
+在 B 站为 CG5 的音乐视频《Wrong Side Out》（Poppy Playtime Chapter 5）等等制作过中英字幕，字幕与翻译署名均为 **Minecraftmc22**；也做过 LRC 歌词。
 
 ### 🛠️ 软件汉化分享
 
